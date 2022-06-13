@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suneelkumar 
 - 👀 I’m interested in web develepment
-- 🌱 I’m currently learning cloud cumputing, devops, kubernetes
-- 💞️ I’m looking to work .
+- 🌱 I’m currently learning cloud cumputing,data base,big data.
+- 💞️ I’m working in UST (Us technology international pvt ltd).
 - 📫 How to reach me at suneelkumarraj26@gmail.com
 
 <!---
